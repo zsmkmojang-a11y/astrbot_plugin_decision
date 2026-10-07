@@ -1,6 +1,6 @@
 name: astrbot_plugin_decision
 display_name: 抉择，抉择
-desc: 多选项等权随机抉择，可配置特殊答案概率；独立控制随机模板、15 字以内模型原因及特殊答案附图。
+desc: 群聊决策币插件，内含100+种回复模版。有概率出现：两者皆有可能，这就是答案
 version: "0.3.2"
 author: mk
 repo: https://github.com/zsmkmojang-a11y/astrbot_plugin_decision
