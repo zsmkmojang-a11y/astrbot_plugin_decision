@@ -92,7 +92,7 @@ GitHub 仓库：[zsmkmojang-a11y/astrbot_plugin_decision](https://github.com/zsm
 2. 在 AstrBot 插件管理页重新加载插件，或重启 AstrBot。
 3. 发送 `/抉择 吃火锅还是吃烤肉` 检查是否返回一个答案。
 
-也可在支持本地 ZIP 安装的插件管理页上传交付的 `astrbot_plugin_decision-0.3.2.zip`。原型未设置远程仓库更新地址。
+也可在支持本地 ZIP 安装的插件管理页上传交付的 `astrbot_plugin_decision-0.3.2.zip`。`metadata.yaml` 已设置上述仓库的更新地址。
 
 原因生成使用 AstrBot `v4.5.7` 加入的当前会话模型查询和 `llm_generate` 接口。缺少该接口时仍能随机选择并给出兜底原因。
 
